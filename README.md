@@ -4,11 +4,11 @@
 
 A collection of scripts to aid in managing your Minecraft servers and proxies.
 
-## 📽 Showcase
+## Showcase
 
 To-do :)
 
-## 📦 Features Overview
+## Features Overview
 
 ### 🔧 Configurable
 
@@ -46,7 +46,7 @@ you're running multiple instances (such as a Minecraft server network).
 
 Clone this repository using `git clone`, or 'Download ZIP' from the GitHub repository.
 
-### 🐧 GNU/Linux Systems
+### GNU/Linux Systems
 
 > A very basic understanding of using your OS's terminal is assumed. 
 
@@ -55,7 +55,7 @@ Clone this repository using `git clone`, or 'Download ZIP' from the GitHub repos
 - Delete the downloaded `CraftCtl` directory if you wish, it's no longer required
 - Set execute permission: `sudo chmod +x ctl.command && sudo chmod +x ctl.sh`
 
-### 🍎 macOS Systems
+### macOS Systems
 
 > A very basic understanding of using your OS's terminal is assumed.
 
@@ -64,19 +64,19 @@ Clone this repository using `git clone`, or 'Download ZIP' from the GitHub repos
 - Delete the downloaded `CraftCtl` directory if you wish, it's no longer required
 - Set execute permission: `sudo chmod +x ctl.command && sudo chmod +x ctl.sh`
 
-### 🟦 Windows Systems
+### Windows Systems
 
 - Hit the "Download ZIP" button in the source code area on this GitHub repository.
 - Extract the downloaded ZIP file.
 - Copy `ctl.bat` from `CraftCtl/scripts/batch/` into your server's directory
 - Delete the extracted `CraftCtl` directory if you wish, it's no longer required
 
-## 🙋‍♂️ Support
+## Support
 
 No support is provided for this software. However, bug reports and feature requests are warmly welcome. For this,
 feel free to use the [issue tracker][2], or the [ArcanePlugins Discord Guild][3].
 
-## 👨‍⚖️ License
+## License
 
 This software uses the MIT License - see `LICENSE.md`.
 
