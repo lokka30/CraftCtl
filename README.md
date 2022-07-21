@@ -6,7 +6,9 @@ A collection of scripts to aid in managing your Minecraft servers and proxies.
 
 ## Showcase
 
-To-do :)
+To-do. :)
+
+Check out [cli.md][6] to see what the script's interface will look like!
 
 ## Features Overview
 
@@ -87,3 +89,4 @@ This software uses the MIT License - see `LICENSE.md`.
 [3]: https://discord.io/arcaneplugins
 [4]: https://aikar.co/mcflags.html
 [5]: https://aikar.co/
+[6]: https://github.com/lokka30/CraftCtl/blob/master/misc/brainstorming/cli.md
