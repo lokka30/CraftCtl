@@ -1,6 +1,6 @@
 # 🎬 CraftCtl
 
-> ❗️ **Note:** This project is not complete, it is currently just an idea.
+> ❗️ **Note:** This project is currently **incomplete**.
 
 A collection of scripts to aid in managing your Minecraft servers and proxies.
 
