@@ -46,7 +46,11 @@ you're running multiple instances (such as a Minecraft server network).
 
 ## 📜 Instructions
 
-Clone this repository using `git clone`, or 'Download ZIP' from the GitHub repository.
+### Before you install...
+
+#### Monospace Terminal Font
+Make sure you use a monospace font for your terminal (almost all terminals do by default). Without a monospace font,
+the interface will be completely misaligned. If you insist on using a non-monospace font, feel free to fork this repository and adapt the interface to your liking. 
 
 ### GNU/Linux Systems
 
